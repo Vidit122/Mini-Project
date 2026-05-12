@@ -24,11 +24,11 @@ The system is capable of detecting attacks such as:
 
 ## Features
 
-✔️ Federated Learning for decentralized training  
-✔️ Quantum-safe secure aggregation using LWE encryption  
-✔️ Hybrid **MobileNet-V1 + BiGRU** deep learning model  
-✔️ Privacy-preserving cyber threat detection  
-✔️ Evaluation on **5G-NIDD dataset**
+1. Federated Learning for decentralized training  
+2. Quantum-safe secure aggregation using LWE encryption  
+3. Hybrid **MobileNet-V1 + BiGRU** deep learning model  
+4. Privacy-preserving cyber threat detection  
+5. Evaluation on **5G-NIDD dataset**
 
 ---
 
@@ -105,15 +105,6 @@ Used for sequential traffic analysis and temporal dependency learning.
 **Dataset Used:** 5G-NIDD Dataset
 
 The dataset contains network traffic samples for cyber threat detection in **5G-enabled IoT environments**.
-
----
-
-## Future Scope
-
-- Blockchain-based secure aggregation
-- Explainable AI (SHAP/LIME)
-- Transformer-based federated models
-- Defense against malicious clients and poisoning attacks
 
 ---
 
